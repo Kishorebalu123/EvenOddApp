@@ -1,0 +1,13 @@
+.bg-card{
+background-image: linear-gradient(to bottom,#ff6e7f,#bfe9ff);
+margin: 6rem;
+border-radius: 10px;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-top: 20px;
+padding-bottom: 50px;
+}
+.note{
+font-size: 6px;
+}
